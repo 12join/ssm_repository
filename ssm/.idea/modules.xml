@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_dao/maven_dao.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_dao/maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_pojo/maven_pojo.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_pojo/maven_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ssm/spring_ssm.iml" filepath="$PROJECT_DIR$/spring_ssm/spring_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm.iml" filepath="$PROJECT_DIR$/.idea/ssm.iml" />
+    </modules>
+  </component>
+</project>
